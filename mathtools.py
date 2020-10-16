@@ -24,3 +24,5 @@ def arithmetic(a, difference, n):
     sequence = [a+difference*x for x in range(n)]
     #Calculates its sum
     return sum(sequence)
+def fib3():
+return 0
